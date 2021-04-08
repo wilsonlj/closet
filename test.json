@@ -5,17 +5,10 @@
         "data": {
             "current_page": 1,
             "page_size": 5,
-            "introducer": "请选择您想咨询的订单",
-            "banner": "选择咨询的订单",
+            "introducer": "引导语aaa",
             "empty_list_hint": "无数据返回提示文案aaa",
             "tab1":{
                 "item_list": [
-                     {
-                        "item_type": "1",
-                        "img": "https://img.alicdn.com/imgextra/i2/2228361831/12228361831.jpg",
-                        "title": "item分组",
-                        "sub_title": "卖家已发货"
-                    },
                     {
                         "item_type": "0",
                         "img": "https://img.alicdn.com/imgextra/i2/2228361831/12228361831.jpg",
@@ -41,10 +34,16 @@
 
                     },
                     {
-                        "item_type": "1",
-                        "img": "https://img.alicdn.com/imgextra/i2/2228361831/12228361831.jpg",
-                        "title": "item分组",
-                        "sub_title": "卖家已发货"
+                        "item_type": "0",
+                        "img": "https://img.alicdn.com/imgextra/i2/2228361831/TB2Zo._a5GO.eBjSZFjXXcU9FXa_!!2228361831.jpg",
+                        "title": "1ZARA 女装 加大码飞行员夹克",
+                        "sub_title": "1ZARA 女装 加大码飞行员夹克",
+                        "attr_1": "100",
+                        "attr_2": "100",
+                        "attr_3": "100",
+                        "target": "http://www.baidu.com",
+                        "params": "orderNo=0"
+
                     },
                     {
                         "item_type": "0",
