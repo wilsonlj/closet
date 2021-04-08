@@ -1,0 +1,8 @@
+{
+    "code": 200,
+    "desc": "success",
+    "result": {
+        "orderNo": "orderNo123",
+        "address": "address123"
+    }
+}
