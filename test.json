@@ -3,19 +3,17 @@
     "desc": "success",
     "result": {
         "data": {
-            "tab_id": 1,
             "current_page": 1,
             "page_size": 5,
             "introducer": "请选择您想咨询的订单",
             "banner": "选择咨询的订单",
             "empty_list_hint": "无数据返回提示文案aaa",
             "tab1":{
-                "name": "分组1",
                 "item_list": [
-                    {
+                     {
                         "item_type": "1",
                         "img": "https://img.alicdn.com/imgextra/i2/2228361831/12228361831.jpg",
-                        "title": "考拉海购",
+                        "title": "item分组",
                         "sub_title": "卖家已发货"
                     },
                     {
@@ -45,7 +43,7 @@
                     {
                         "item_type": "1",
                         "img": "https://img.alicdn.com/imgextra/i2/2228361831/12228361831.jpg",
-                        "title": "网易严选",
+                        "title": "item分组",
                         "sub_title": "卖家已发货"
                     },
                     {
@@ -72,18 +70,6 @@
                         "params": "orderNo=0"
                     }
                 ]
-            },
-            "tab2":{
-                "name": "分组2",
-                "item_list": []
-            },
-            "tab3":{
-                "name": "分组3",
-                "item_list": []
-            },
-            "tab4":{
-                "name": "分组4",
-                "item_list": []
             }
         }
     }
